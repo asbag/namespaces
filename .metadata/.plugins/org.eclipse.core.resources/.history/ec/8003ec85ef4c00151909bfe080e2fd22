@@ -1,0 +1,10 @@
+<?php
+/**
+ * @author David Mezquíriz Osés
+ */
+
+namespace animate;
+
+class Animal {
+	
+}

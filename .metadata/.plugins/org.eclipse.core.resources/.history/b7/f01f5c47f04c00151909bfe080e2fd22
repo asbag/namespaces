@@ -1,0 +1,14 @@
+<?php
+
+namespace fub;
+
+spl_autoload_register('load_classes');
+
+function load_classes ($class_to_load) {
+	include('classes/' . strtolower($class_to_load));
+}
+
+use foo as feline;
+use bar as canine;
+
+

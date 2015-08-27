@@ -1,0 +1,13 @@
+<?php
+
+/**
+ * @author David Mezquíriz Osés
+ */
+
+namespace WebPage;
+
+class MyAutoloader {
+	public static function load ($className) {
+		
+	}
+}

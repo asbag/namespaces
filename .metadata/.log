@@ -1,0 +1,132 @@
+!SESSION 2015-08-27 21:04:08.088 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.7.0_79
+java.vendor=Oracle Corporation
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=es_ES
+Framework arguments:  -product org.eclipse.epp.package.php.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.php.product
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:17:47.698
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.reportAlias(GlobalTypesStrategy.java:240)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.addAlias(GlobalTypesStrategy.java:176)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.apply(GlobalTypesStrategy.java:136)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalElementsCompositeStrategy.apply(GlobalElementsCompositeStrategy.java:43)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:115)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:63)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:503)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:484)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:17:48.842
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.reportAlias(GlobalTypesStrategy.java:240)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.addAlias(GlobalTypesStrategy.java:176)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.apply(GlobalTypesStrategy.java:136)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalElementsCompositeStrategy.apply(GlobalElementsCompositeStrategy.java:43)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:115)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:63)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:503)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:484)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:18:28.479
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.reportAlias(GlobalTypesStrategy.java:240)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.addAlias(GlobalTypesStrategy.java:176)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.apply(GlobalTypesStrategy.java:136)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalElementsCompositeStrategy.apply(GlobalElementsCompositeStrategy.java:43)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:115)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:63)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:503)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:484)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:18:29.280
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.reportAlias(GlobalTypesStrategy.java:240)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.addAlias(GlobalTypesStrategy.java:176)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.apply(GlobalTypesStrategy.java:136)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalElementsCompositeStrategy.apply(GlobalElementsCompositeStrategy.java:43)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:115)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:63)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:503)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:484)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:18:29.642
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+java.lang.ArrayIndexOutOfBoundsException: 0
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.reportAlias(GlobalTypesStrategy.java:240)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.addAlias(GlobalTypesStrategy.java:176)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalTypesStrategy.apply(GlobalTypesStrategy.java:136)
+	at org.eclipse.php.internal.core.codeassist.strategies.GlobalElementsCompositeStrategy.apply(GlobalElementsCompositeStrategy.java:43)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:115)
+	at org.eclipse.php.internal.core.codeassist.PHPCompletionEngine.complete(PHPCompletionEngine.java:63)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:503)
+	at org.eclipse.dltk.internal.core.Openable$CompletionThread.run(Openable.java:484)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:54:46.251
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+org.eclipse.jface.text.BadLocationException: offset 471 is out of [0, 382]
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.checkBadLocation(PhpTokenContainer.java:462)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.getToken(PhpTokenContainer.java:74)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpScriptRegion.getPhpToken(PhpScriptRegion.java:97)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.internalResolve(PHPSelectionEngine.java:656)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.select(PHPSelectionEngine.java:163)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:662)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:678)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:85)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:76)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.getSelectionModelElement(OpenTypeHierarchyAction.java:216)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.isEnabled(OpenTypeHierarchyAction.java:166)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.access$0(OpenTypeHierarchyAction.java:160)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction$1.run(OpenTypeHierarchyAction.java:122)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:54:46.254
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+org.eclipse.jface.text.BadLocationException: offset 471 is out of [0, 382]
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.checkBadLocation(PhpTokenContainer.java:462)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.getToken(PhpTokenContainer.java:74)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpScriptRegion.getPhpToken(PhpScriptRegion.java:97)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.internalResolve(PHPSelectionEngine.java:656)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.select(PHPSelectionEngine.java:163)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:662)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:678)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:85)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:76)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.getSelectionModelElement(OpenTypeHierarchyAction.java:216)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.isEnabled(OpenTypeHierarchyAction.java:166)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.access$0(OpenTypeHierarchyAction.java:160)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction$1.run(OpenTypeHierarchyAction.java:122)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.php.core 4 10001 2015-08-27 21:54:50.445
+!MESSAGE PHPCore plugin internal error
+!STACK 0
+org.eclipse.jface.text.BadLocationException: offset 382 is out of [0, 379]
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.checkBadLocation(PhpTokenContainer.java:462)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpTokenContainer.getToken(PhpTokenContainer.java:74)
+	at org.eclipse.php.internal.core.documentModel.parser.regions.PhpScriptRegion.getPhpToken(PhpScriptRegion.java:97)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.internalResolve(PHPSelectionEngine.java:656)
+	at org.eclipse.php.internal.core.codeassist.PHPSelectionEngine.select(PHPSelectionEngine.java:163)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:662)
+	at org.eclipse.dltk.internal.core.Openable.codeSelect(Openable.java:678)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:85)
+	at org.eclipse.dltk.internal.core.AbstractSourceModule.codeSelect(AbstractSourceModule.java:76)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.getSelectionModelElement(OpenTypeHierarchyAction.java:216)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.isEnabled(OpenTypeHierarchyAction.java:166)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction.access$0(OpenTypeHierarchyAction.java:160)
+	at org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction$1.run(OpenTypeHierarchyAction.java:122)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:54)
+
+!ENTRY org.eclipse.core.jobs 2 2 2015-08-27 23:07:06.429
+!MESSAGE Job found still running after platform shutdown.  Jobs should be canceled by the plugin that scheduled them during shutdown: org.eclipse.php.internal.ui.actions.OpenTypeHierarchyAction$1

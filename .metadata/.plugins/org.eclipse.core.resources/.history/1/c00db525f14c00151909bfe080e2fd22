@@ -1,0 +1,24 @@
+<?php
+
+namespace fub;
+
+function load_classes ($class_to_load) {
+	$full_path = 'classes/' . strtolower($class_to_load);
+	if (file_exists($full_path)) {
+		include($full_path);
+	}
+}
+
+
+spl_autoload_register('load_classes');
+
+
+use foo as feline;
+use bar as canine;
+use animate;
+
+echo feline\Cat::says();
+echo canine\Dog::says();
+echo animate\Animal::breathes();
+
+

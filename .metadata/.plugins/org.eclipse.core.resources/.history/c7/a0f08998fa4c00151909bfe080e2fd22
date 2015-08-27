@@ -1,0 +1,11 @@
+<?php
+/**
+ * @author David Mezquíriz Osés
+ */
+
+
+namespace dos;
+class WebPageConsolidator
+{
+    public function __construct() { echo "PHP 5.2 constructor.\n"; }
+}

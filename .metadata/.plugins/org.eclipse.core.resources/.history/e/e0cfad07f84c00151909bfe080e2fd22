@@ -1,0 +1,22 @@
+<?php
+
+/**
+ * @author David Mezquíriz Osés
+ */
+
+namespace WebPage;
+
+class MyAutoloader {
+	public static function load ($className) {
+		require '..' . __NAMESPACE__ . $className . '.inc.php';
+	}
+}
+
+spl_autoload_register(__NAMESPACE__ . '\\MyAutoloader::load');
+
+class Consolidator extends \WebPageConsolidator{
+	public function __construct() {
+		echo 'PHP 5.3 construct\n';
+		parent::__construct();
+	}
+}

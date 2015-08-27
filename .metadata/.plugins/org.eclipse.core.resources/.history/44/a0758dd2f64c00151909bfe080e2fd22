@@ -1,0 +1,11 @@
+<?php
+
+/**
+ * @author David Mezquíriz Osés
+ */
+
+namespace WebPage;
+
+class MyAutoloader {
+	
+}

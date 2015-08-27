@@ -1,0 +1,12 @@
+<?php
+/**
+ * @author David Mezquíriz Osés
+ */
+
+namespace dog;
+
+class Dog {
+	static function says() {
+		echo 'ruff';
+	}
+}
